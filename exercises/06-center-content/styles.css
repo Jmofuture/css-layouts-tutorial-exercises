@@ -1,3 +1,12 @@
-body{
-    background:blue;
+body {
+	background: blue;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+.myDiv {
+	width: 400px;
+	height: 200px;
+	background-color: grey;
 }
